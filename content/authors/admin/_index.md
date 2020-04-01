@@ -40,9 +40,6 @@ education:
   - course: Bachelor of Engineering, Bachelor of Arts
     institution: South China University of Technology
     year: 2010.9--2014.6
-  <!-- - source: Bachelor of Engineering, Bachelor of Arts -->
-  <!-- 	institution: South China University of Technology -->
-  <!-- 	year: 2010.9--2014.6 -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
