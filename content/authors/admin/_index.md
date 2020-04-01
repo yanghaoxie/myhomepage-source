@@ -32,7 +32,7 @@ education:
     institution: University of Electronic Science and Technology of China, Chengdu, China
     year: 2016.9 - present
   - course: Visiting Ph.D. Student
-    institution: Politecnico di Milano, Milano, Italy
+    institution: Politecnico di Milano, Milan, Italy
     year: 2020.1-2020.7
   - course: Master Student, master-doctor combined program
     institution: University of Electronic Science and Technology of China, Chengdu, China
