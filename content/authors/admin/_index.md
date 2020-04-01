@@ -37,9 +37,9 @@ education:
   - course: Master Student, master-doctor combined program
     institution: University of Electronic Science and Technology of China
     year: 2014.9--2016.6
-  - course: Master Student, master-doctor combined program
-    institution: University of Electronic Science and Technology of China
-    year: 2014.9--2016.6
+  - course: Bachelor of Engineering, Bachelor of Arts
+    institution: South China University of Technology
+    year: 2010.9--2014.6
   <!-- - source: Bachelor of Engineering, Bachelor of Arts -->
   <!-- 	institution: South China University of Technology -->
   <!-- 	year: 2010.9--2014.6 -->
