@@ -22,6 +22,7 @@ bio: My research interests include network modeling and optimization, Network Fu
 
 interests:
 - Network modeling and optimization
+- Algorithm design and analysis
 - Network Function Virtualization
 - Network Slicing
 
