@@ -37,4 +37,10 @@ subtitle = ""
   name = "Latex"
   description = "80%"
 
+[[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
+  description = "60%"
+
 +++
