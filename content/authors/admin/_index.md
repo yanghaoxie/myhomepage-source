@@ -29,16 +29,16 @@ interests:
 education:
   courses:
   - course: Ph.D. Candidate
-    institution: University of Electronic Science and Technology of China
+    institution: University of Electronic Science and Technology of China, Chengdu, China
     year: 2016.9 - present
   - course: Visiting Ph.D. Student
-    institution: Politecnico di Milano
+    institution: Politecnico di Milano, Milano, Italy
     year: 2020.1-2020.7
   - course: Master Student, master-doctor combined program
-    institution: University of Electronic Science and Technology of China
+    institution: University of Electronic Science and Technology of China, Chengdu, China
     year: 2014.9--2016.6
   - course: Bachelor of Engineering, Bachelor of Arts
-    institution: South China University of Technology
+    institution: South China University of Technology, Guangzhou, China
     year: 2010.9--2014.6
 
 # Social/Academic Networking
