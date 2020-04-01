@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yanghao Xie
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,38 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Electronic Science and Technology of China
+  url: "https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include network modeling and optimization, Network Function Virtualization, Network Slicing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Network modeling and optimization
+- Network Function Virtualization
+- Network Slicing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. Candidate
+    institution: University of Electronic Science and Technology of China
+    year: 2016.9 - present
+  - course: Visiting Ph.D. Student
+    institution: Politecnico di Milano
+    year: 2020.1-2020.7
+  - course: Master Student, master-doctor combined program
+    institution: University of Electronic Science and Technology of China
+    year: 2014.9--2016.6
+  - course: Master Student, master-doctor combined program
+    institution: University of Electronic Science and Technology of China
+    year: 2014.9--2016.6
+  <!-- - source: Bachelor of Engineering, Bachelor of Arts -->
+  <!-- 	institution: South China University of Technology -->
+  <!-- 	year: 2010.9--2014.6 -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +50,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:yhaoxie@gmail.com
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=lzv4cxQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yanghaoxie
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yanghao-xie-26471b1a4/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yanghao_Xie3
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2521-3726
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+  Yanghao Xie was born in Chongqing, China in 1991. He received B.E. in information engineering and B.A. in editing and publishing science degrees from South China University of Technology, Guangzhou, China in 2014. He is currently pursuing the Ph.D. degree in Communication and Information System at University of Electronic Science and Technology of China, Chengdu, China. His research interests include network modeling and optimization, algorithm design, Network Function Virtualization, and Network Slicing.
