@@ -19,6 +19,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Pyhton"
   description = "90%"
+
+[[feature]]
+  icon = "ibm"
+  icon_pack = "icon"
+  name = "CPLEX"
+  description = "80%"
   
 [[feature]]
   icon = "linux"
@@ -27,13 +33,14 @@ subtitle = ""
   description = "80%"  
   
 [[feature]]
-  icon = "images/emacs.png"
+  icon = "gnuemacs"
+  icon_pack="icon"
   name = "Emacs"
   description = "90%"
 
 [[feature]]
   icon = "latex"
-  icon_pack = "fab"
+  icon_pack = "icon"
   name = "Latex"
   description = "80%"
 
@@ -42,5 +49,21 @@ subtitle = ""
   icon_pack = "fab"
   name = "Git"
   description = "60%"
+
+[[feature]]
+  icon = "networkx"
+  name = "NetworkX"
+  description = "60%"
+
+[[feature]]
+  icon = "numpy"
+  name = "Numpy"
+  description = "60%"
+
+[[feature]]
+  icon = "matplotlib"
+  name = "Matplotlib"
+  description = "60%"
+  
 
 +++
