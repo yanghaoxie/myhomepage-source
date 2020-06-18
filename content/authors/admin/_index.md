@@ -57,7 +57,7 @@ social:
   link: https://github.com/yanghaoxie
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/yanghao-xie-26471b1a4/
+  link: https://www.linkedin.com/in/yanghao-xie/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yanghao_Xie3
